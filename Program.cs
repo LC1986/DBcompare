@@ -24,6 +24,8 @@ namespace DBcomparer
             else
                 Application.AsiaDBcomparer();
             log.Info("----DB comparer Job End---");
+
+
         }
 
 
