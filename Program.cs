@@ -9,6 +9,11 @@ using System.Linq;
 using DBComparer;
 
 
+
+
+
+
+
 namespace DBcomparer
 {
     class Program
